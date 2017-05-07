@@ -10,12 +10,13 @@ icon: glyphicon-heart
 
 * email：[wff0316@foxmail.com](mailto:{{ site.email }})
 * QQ：2427020508
-* 微博：http://weibo.com/u/6032522013/home?wvr=5
+* Weibo：[feifan](http://weibo.com/u/6032522013/home?wvr=5)
 ---
 
 ### 关于我
 
-> 从小到大没捣鼓过正经事，时间都用在了瞎折腾。
+> 
+从小到大没捣鼓过正经事，时间都用在了瞎折腾。
 
 爱看村上和东野的书，写过几篇小说，终是不能见人。
 
